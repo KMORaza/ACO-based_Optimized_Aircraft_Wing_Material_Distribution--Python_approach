@@ -172,6 +172,7 @@ Integrates modules, runs optimization, and visualizes results.
 
 | ![](https://github.com/KMORaza/ACO-based_Optimized_Aircraft_Wing_Material_Distribution--Python_approach/blob/main/ACO-based%20Optimized%20Aircraft%20Wing%20Material%20Distribution/extended%20solution/convergence_plot.png) | ![](https://github.com/KMORaza/ACO-based_Optimized_Aircraft_Wing_Material_Distribution--Python_approach/blob/main/ACO-based%20Optimized%20Aircraft%20Wing%20Material%20Distribution/extended%20solution/spar_position_plot.png?raw=true)
 |--|--|
+| ![](https://github.com/KMORaza/ACO-based_Optimized_Aircraft_Wing_Material_Distribution--Python_approach/blob/main/ACO-based%20Optimized%20Aircraft%20Wing%20Material%20Distribution/extended%20solution/stress_histogram.png?raw=true) | ![](https://github.com/KMORaza/ACO-based_Optimized_Aircraft_Wing_Material_Distribution--Python_approach/blob/main/ACO-based%20Optimized%20Aircraft%20Wing%20Material%20Distribution/extended%20solution/wing_E1_plot.png?raw=true) |
 
 
 
